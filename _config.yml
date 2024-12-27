@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+
+title: "David Sundström"
+description: "My personal webpage"
+
+# Navigation menu
+links:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Software"
+    url: "/software"
+  - title: "Music"
+    url: "/music"
+  - title: "Contact"
+    url: "/contact"
