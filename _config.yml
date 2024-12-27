@@ -5,18 +5,17 @@ description: "My personal webpage"
 
 sidebar:
   - publications
-  - Publications
   - software
   - music
 
 
 # Navigation menu
-links:
-  - title: "Home"
-    url: "/"
-  - title: "Publications"
-    url: "/publications"
-  - title: "Software"
-    url: "/software"
-  - title: "Music"
-    url: "/music"
+#links:
+#  - title: "Home"
+#    url: "/"
+#  - title: "Publications"
+#    url: "/publications"
+#  - title: "Software"
+#    url: "/software"
+#  - title: "Music"
+#    url: "/music"
