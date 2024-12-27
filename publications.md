@@ -1,4 +1,5 @@
 ---
+id: publications
 title: Publications
 layout: default
 ---
