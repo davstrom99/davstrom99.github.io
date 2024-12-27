@@ -5,11 +5,7 @@ title: "David Sundström"
 description: "My personal webpage"
 
 sidebar:
-  navigation:
-    - title: Publications
-      id: publications
-    - title: Software
-      id: software
-    - title: Music
-      id: music
+  - publications
+  - software
+  - music
 
