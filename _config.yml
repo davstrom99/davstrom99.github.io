@@ -3,6 +3,12 @@ theme: jekyll-theme-time-machine
 title: "David Sundström"
 description: "My personal webpage"
 
+sidebar:
+  - publications
+  - software
+  - music
+
+
 # Navigation menu
 links:
   - title: "Home"
