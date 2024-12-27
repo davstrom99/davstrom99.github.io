@@ -4,18 +4,11 @@ title: "David Sundström"
 description: "My personal webpage"
 
 sidebar:
-  - publications
-  - software
-  - music
+  navigation:
+    - title: Publications
+      id: publications
+    - title: Software
+      id: software
+    - title: Music
+      id: music
 
-
-# Navigation menu
-#links:
-#  - title: "Home"
-#    url: "/"
-#  - title: "Publications"
-#    url: "/publications"
-#  - title: "Software"
-#    url: "/software"
-#  - title: "Music"
-#    url: "/music"
