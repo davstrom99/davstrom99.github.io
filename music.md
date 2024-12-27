@@ -1,4 +1,5 @@
 ---
+id: music
 title: Music
 layout: default
 ---
