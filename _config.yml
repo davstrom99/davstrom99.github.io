@@ -5,6 +5,7 @@ description: "My personal webpage"
 
 sidebar:
   - publications
+  - Publications
   - software
   - music
 
