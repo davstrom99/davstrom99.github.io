@@ -1,7 +1,8 @@
 ---
-id: software
+layout: page
 title: Software
-layout: default
+permalink: /software/
 ---
+
 # Software
 List all the software here
