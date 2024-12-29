@@ -1,7 +1,7 @@
 ---
-id: publications
+layout: page
 title: Publications
-layout: default
+permalink: /publications/
 ---
 # Publications
 List your publications here.
