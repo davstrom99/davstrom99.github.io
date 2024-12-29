@@ -1,5 +1,6 @@
 #theme: jekyll-theme-cayman
 remote_theme: zendesk/jekyll-theme-zendesk-garden
+remote_theme: alshedivat/al-folio
 
 title: "David Sundström"
 description: "My personal webpage"
