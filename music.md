@@ -1,7 +1,7 @@
 ---
-id: music
+layout: page
 title: Music
-layout: default
+permalink: /music/
 ---
 # Music
 Links to some music
