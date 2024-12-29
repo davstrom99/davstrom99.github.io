@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: default
+layout: page
+title: "Home"
+permalink: /home/
 ---
 
 # Welcome to My Personal Website
